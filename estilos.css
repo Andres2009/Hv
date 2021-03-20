@@ -1,0 +1,220 @@
+.ops{
+    text-align: center;
+}
+.subtitle{
+    border:3px solid black;
+    border-radius:100%; 
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+}
+.subtitletwo{
+    border:3px solid black;
+    border-radius: 20px 20px 20px 20px ; 
+    text-align: center;
+    margin-left: 5px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+}
+.divisionesexperiencia{
+    font-size: 13px;
+    width: 700px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: left;
+    border: 2px black solid;
+    background-color: #E8F8F6;
+}
+
+
+.divisionesexperiencia .div1e {
+    width: 100%;
+    border: 1px black solid;
+    font-size: 10px;
+    padding: 10px;
+}
+.divisionesexperiencia .div2e {
+    width: 100%;
+    border-bottom: 1px black solid;
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+    text-align: center;
+    padding: 5px;
+    background-color: cornflowerblue;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  width: 700px;
+  background-color: #E8F8F6;
+}
+.divisionesexperiencia input {
+    background-color: #E8F8F6;
+}
+.divisionesexperiencia .div3e {
+    width: 60%;
+    border-bottom: 1px black solid;
+    border-left: 1px black solid;
+    padding-left: 3px;
+    padding-top: 3px;
+}
+.divisionesexperiencia .div4e {
+    width: 10%;
+    border-bottom: 1px black solid;
+    border-left: 1px black solid;
+    text-align: center;
+    padding-left: 3px;
+    padding-top: 3px;
+}
+.divisionesexperiencia .div5e {
+    width: 10%;
+    border-bottom: 1px black solid;
+    border-left: 1px black solid;
+    text-align: center;
+    padding-left: 3px;
+    padding-top: 3px;
+}
+.divisionesexperiencia .div6e {
+    width: 20%;
+    border-bottom: 1px black solid;
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+    padding-left: 3px;
+    padding-top: 3px;
+}
+.container2 {
+  display: flex;
+  flex-direction: row;
+  width: 700px;
+  background-color: #E8F8F6;
+}
+.divisionesexperiencia .div3e2 {
+    width: 32%;
+    border-bottom: 1px black solid;
+    border-left: 1px black solid;
+    padding-left: 3px;
+    padding-top: 3px;
+}
+.divisionesexperiencia .div4e2 {
+    width: 36%;
+    border-bottom: 1px black solid;
+    border-left: 1px black solid;
+    padding-left: 3px;
+    padding-top: 3px;
+}
+.divisionesexperiencia .div5e2 {
+    width: 32%;
+    border-bottom: 1px black solid;
+    border-right: 1px black solid;
+    border-left: 1px black solid;
+    padding-left: 3px;
+    padding-top: 3px;
+}
+.container3 {
+  display: flex;
+  flex-direction: row;
+  width: 700px;
+  background-color: #E8F8F6;
+
+}
+.divisionesexperiencia .div3e3 {
+    width: 34%;
+    border-bottom: 1px black solid;
+    border-left: 1px black solid;
+    padding-left: 3px;
+    padding-top: 3px;
+    background-color: #E8F8F6;
+}
+.divisionesexperiencia .div4e3 {
+    width: 32%;
+    border-bottom: 1px black solid;
+    border-left: 1px black solid;
+    padding-left: 3px;
+    padding-top: 3px;
+    background-color: #E8F8F6;
+}
+.divisionesexperiencia .div5e3 {
+    width: 34%;
+    border-bottom: 1px black solid;
+    border-right: 1px black solid;
+    border-left: 1px black solid;
+    padding-left: 3px;
+    padding-top: 3px;
+    background-color: #E8F8F6;
+}
+
+.tiempoexperiencia {
+    border: 3px black solid;
+    width: 700px;
+    height: 250px;
+    background-color: #E8F8F6;
+}
+
+.tiempoexperiencia input {
+    background-color: #E8F8F6;
+}
+
+.tiempoexperiencia .divisionexperiencia{
+
+    border: 1px black solid;
+    width: 400px;
+}
+
+.tiempoexperiencia p{
+    font-size: 10px;
+    text-align: left;
+    padding-left: 5px;
+} 
+
+.tiempoexperiencia table{
+    border: 1px black solid;
+    width: 500px;
+}
+
+.tiempoexperiencia td{
+    border: 1px black solid;
+    text-align: center;
+    font-size: 12px;
+    height: 30px;
+    padding: 0px;
+}
+.tiempoexperiencia th {
+    border: 1px black solid;
+    text-align: center;
+    font-size: 12px;
+}
+.tiempoexperiencia input {
+    width: 80px;
+    height: 30px;
+}
+.FirmaSpublic  {
+    border: 1px black solid;
+    width: 700px;
+    background-color: #E8F8F6;
+}
+
+.FirmaSpublic p {
+    font-size: 10px;
+    text-align: left;
+    padding-left: 5px;
+    line-height: 15px;
+}
+
+.FirmaSpublic {
+    padding: 10px;
+}
+.FirmaSpublic .FirmaJefe {
+    width: 600px;
+    height: 100px;
+  
+}
+.FirmaJefe input {
+    width: 600px;
+    height: 100px;
+}
